@@ -1,0 +1,90 @@
+body {
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+h1 { 
+    color :black;
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#link{
+  border-style: solid;
+  border-color: black;
+  font-size: x-large;
+  text-align: center;
+}
+#title{
+  font-style: oblique ;
+  font-size: 40px;
+}
+div.container {
+  background: rgb(128, 125, 126);
+  text-align: center;
+  font-size: larger;
+}
+#homepagebanner{
+  background: rgb(181, 219, 231);
+
+}
+
+#homewelcome{
+  background: rgb(181, 219, 231);
+}
+#about{
+  background-color: rgb(181, 219, 231);
+}
+nav {
+    text-align:  center;
+    color :rgb(255, 253, 253);
+    margin: 50;
+    padding: 50;
+    overflow: hidden;
+    background-color: rgba(207, 221, 209, 0.13);
+    font-size: larger;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  p {
+    text-align: left;
+    margin: 35px;
+  }
+  h2 {
+    text-align: center;
+  }
+  img {
+      text-align: center;
+      padding-top: 50px;
+      padding-right: 50px;
+      padding-bottom: 50px;
+      padding-left: 50px;
+  }
+
+  ul.a {
+    list-style-type: circle;
+  }
+  ul.b {
+    list-style-type: circle;
+  }
+  a:hover{
+    background-color: yellow;
+  }
